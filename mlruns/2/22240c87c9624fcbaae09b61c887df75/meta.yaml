@@ -1,0 +1,15 @@
+artifact_uri: file:///home/enricoschincarioladaptfy/enrico/explorations/time-series-energy-consumption/mlruns/2/22240c87c9624fcbaae09b61c887df75/artifacts
+end_time: 1690653714106
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 22240c87c9624fcbaae09b61c887df75
+run_name: Extreme Gradient Boosting
+run_uuid: 22240c87c9624fcbaae09b61c887df75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690653709838
+status: 3
+tags: []
+user_id: enricoschincarioladaptfy

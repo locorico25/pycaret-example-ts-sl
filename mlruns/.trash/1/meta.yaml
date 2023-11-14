@@ -1,0 +1,7 @@
+artifact_location: file:///home/enricoschincarioladaptfy/enrico/explorations/time-series-energy-consumption/mlruns/1
+creation_time: 1690630843940
+experiment_id: '1'
+last_update_time: 1690630978266
+lifecycle_stage: active
+name: reg-default-name
+tags: {}

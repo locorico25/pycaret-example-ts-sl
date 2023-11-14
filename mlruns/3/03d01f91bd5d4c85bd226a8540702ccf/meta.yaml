@@ -1,0 +1,15 @@
+artifact_uri: file:///home/enricoschincarioladaptfy/enrico/explorations/time-series-energy-consumption/mlruns/3/03d01f91bd5d4c85bd226a8540702ccf/artifacts
+end_time: 1690793549286
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 03d01f91bd5d4c85bd226a8540702ccf
+run_name: Session Initialized 4b2c
+run_uuid: 03d01f91bd5d4c85bd226a8540702ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690793394565
+status: 3
+tags: []
+user_id: enricoschincarioladaptfy

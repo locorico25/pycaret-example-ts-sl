@@ -1,0 +1,25 @@
+artifact_path: sk_learn
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 1.30.1
+model_uuid: 93185c53c0ba4df195f530c69732ecc6
+run_id: dc34ecd3da214699a739eca1b32c90bb
+signature:
+  inputs: '[{"name": "hour", "type": "integer"}, {"name": "dayofweek", "type": "integer"},
+    {"name": "quarter", "type": "integer"}, {"name": "month", "type": "integer"},
+    {"name": "year", "type": "integer"}, {"name": "dayofyear", "type": "integer"},
+    {"name": "dayofmonth", "type": "integer"}, {"name": "weekofyear", "type": "long"},
+    {"name": "lag_1_year", "type": "float"}, {"name": "lag_2_year", "type": "float"},
+    {"name": "lag_3_year", "type": "float"}]'
+  outputs: '[{"name": "PJMW_MW", "type": "float"}]'
+utc_time_created: '2023-08-03 08:27:19.872755'
